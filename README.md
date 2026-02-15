@@ -2,7 +2,8 @@
 
 A minimal always-on-top sticky note app for Linux with markdown support. Built with Tauri 2 + Svelte 5.
 
-![Sticky MD](screenshot.png)
+<img width="385" height="463" alt="image" src="https://github.com/user-attachments/assets/a82d5ad0-1964-468a-b97e-53a0750f5e89" />
+
 
 ## Features
 
