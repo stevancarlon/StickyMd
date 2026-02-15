@@ -17,12 +17,12 @@
         "width": 360,
         "height": 440,
         "decorations": false,
-        "transparent": false,
+        "transparent": true,
         "alwaysOnTop": true,
         "resizable": true,
         "minWidth": 260,
         "minHeight": 200,
-        "shadow": true,
+        "shadow": false,
         "x": 100,
         "y": 100
       }

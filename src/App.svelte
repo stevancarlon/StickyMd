@@ -248,11 +248,13 @@
     box-sizing: border-box;
   }
 
+  :global(html),
   :global(body) {
     margin: 0;
     padding: 0;
     overflow: hidden;
     font-family: -apple-system, "Segoe UI", "Ubuntu", "Cantarell", sans-serif;
+    background: transparent;
   }
 
   .note {
